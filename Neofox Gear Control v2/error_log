@@ -1,0 +1,231 @@
+[02-Jul-2025 11:22:29 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:22:29 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:22:29 America/Boise] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 4
+[02-Jul-2025 11:22:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 4
+[02-Jul-2025 11:27:52 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:27:52 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:27:52 America/Boise] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 4
+[02-Jul-2025 11:27:52 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 4
+[02-Jul-2025 11:28:35 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:28:35 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:28:35 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:28:35 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:28:47 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:28:47 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:28:48 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:28:48 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:28:48 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:28:48 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:28:59 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:28:59 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:00 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:29:00 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:29:00 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:00 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:03 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:03 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:11 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:11 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:12 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:29:12 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/index.php on line 3
+[02-Jul-2025 11:29:12 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:29:12 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 3
+[02-Jul-2025 11:32:46 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 6
+[02-Jul-2025 11:32:46 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 6
+[02-Jul-2025 11:33:56 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 6
+[02-Jul-2025 11:33:56 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 6
+[02-Jul-2025 11:33:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sunburni/public_html/neofoxmedia/foxy/login.php:6) in /home2/sunburni/public_html/neofoxmedia/foxy/login.php on line 33
+[02-Jul-2025 11:57:05 America/Boise] PHP Warning:  require_once(classes/QRGenerator.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 10
+[02-Jul-2025 11:57:05 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/QRGenerator.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 10
+[02-Jul-2025 11:57:07 America/Boise] PHP Warning:  require_once(classes/QRGenerator.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 10
+[02-Jul-2025 11:57:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/QRGenerator.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 10
+[02-Jul-2025 11:57:14 America/Boise] PHP Warning:  require_once(classes/GearRequest.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/requests.php on line 9
+[02-Jul-2025 11:57:14 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/GearRequest.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/requests.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/requests.php on line 9
+[02-Jul-2025 11:57:20 America/Boise] PHP Warning:  require_once(classes/GearRequest.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php on line 4
+[02-Jul-2025 11:57:20 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/GearRequest.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php on line 4
+[02-Jul-2025 11:57:44 America/Boise] PHP Warning:  require_once(classes/QRGenerator.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 10
+[02-Jul-2025 11:57:44 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/QRGenerator.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 10
+[02-Jul-2025 11:58:18 America/Boise] PHP Warning:  require_once(classes/GearRequest.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php on line 4
+[02-Jul-2025 11:58:18 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/GearRequest.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php on line 4
+[02-Jul-2025 12:05:13 America/Boise] PHP Warning:  require_once(classes/QRGenerator.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 13
+[02-Jul-2025 12:05:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/QRGenerator.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/add_asset.php on line 13
+[02-Jul-2025 12:07:26 America/Boise] PHP Fatal error:  Cannot declare class QRGenerator, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/QRGenerator.php on line 3
+[02-Jul-2025 12:08:59 America/Boise] PHP Fatal error:  Cannot declare class QRGenerator, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/QRGenerator.php on line 3
+[02-Jul-2025 12:09:01 America/Boise] PHP Fatal error:  Cannot declare class QRGenerator, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/QRGenerator.php on line 3
+[02-Jul-2025 12:20:55 America/Boise] PHP Fatal error:  Cannot declare class EmailNotification, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/EmailNotification.php on line 3
+[02-Jul-2025 12:22:12 America/Boise] PHP Fatal error:  Cannot declare class EmailNotification, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/EmailNotification.php on line 3
+[02-Jul-2025 12:47:24 America/Boise] PHP Fatal error:  Cannot declare class GearRequest, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Asset.php on line 130
+[02-Jul-2025 12:47:26 America/Boise] PHP Fatal error:  Cannot declare class GearRequest, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Asset.php on line 130
+[02-Jul-2025 12:47:27 America/Boise] PHP Fatal error:  Cannot declare class GearRequest, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Asset.php on line 130
+[02-Jul-2025 12:52:16 America/Boise] PHP Fatal error:  Cannot declare class GearRequest, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Asset.php on line 130
+[02-Jul-2025 12:52:51 America/Boise] PHP Fatal error:  Cannot declare class GearRequest, because the name is already in use in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Asset.php on line 130
+[02-Jul-2025 13:31:49 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/logout.php on line 3
+[02-Jul-2025 13:31:49 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/logout.php on line 3
+[02-Jul-2025 13:31:49 America/Boise] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/sunburni/public_html/neofoxmedia/foxy/logout.php on line 4
+[02-Jul-2025 13:37:16 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_0bfe711c1ce43966c356099fbd73208f, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/logout.php on line 3
+[02-Jul-2025 13:37:16 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/logout.php on line 3
+[02-Jul-2025 13:37:16 America/Boise] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/sunburni/public_html/neofoxmedia/foxy/logout.php on line 4
+[02-Jul-2025 14:07:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "GearRequest" not found in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php on line 12
+[02-Jul-2025 14:32:04 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/bulk_import_assets.php on line 12
+[02-Jul-2025 14:32:04 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/bulk_import_assets.php on line 12
+[02-Jul-2025 14:34:32 America/Boise] ASSET ACTION: NF001 - created - Asset created in system
+[02-Jul-2025 14:34:32 America/Boise] ASSET ACTION: NF002 - created - Asset created in system
+[02-Jul-2025 14:34:32 America/Boise] ASSET ACTION: NF003 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF004 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF005 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF006 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF007 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF008 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF009 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF010 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF011 - created - Asset created in system
+[02-Jul-2025 14:34:33 America/Boise] ASSET ACTION: NF012 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF013 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF014 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF015 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF016 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF017 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF018 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF019 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF020 - created - Asset created in system
+[02-Jul-2025 14:34:34 America/Boise] ASSET ACTION: NF021 - created - Asset created in system
+[02-Jul-2025 14:42:49 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 14:42:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 14:42:51 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 14:42:51 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 14:43:13 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 14:43:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 14:45:35 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 14:45:35 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:04:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:27
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(312): Analytics->getUsageTrends(30)
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(28): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 27
+[02-Jul-2025 15:04:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:27
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(312): Analytics->getUsageTrends(30)
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(29): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 27
+[02-Jul-2025 15:04:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:27
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(312): Analytics->getUsageTrends(30)
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(29): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 27
+[02-Jul-2025 15:05:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:27
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(312): Analytics->getUsageTrends(30)
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(28): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 27
+[02-Jul-2025 15:05:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:27
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(312): Analytics->getUsageTrends(30)
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(28): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 27
+[02-Jul-2025 15:05:57 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/setup_maintenance_db.php on line 20
+[02-Jul-2025 15:05:57 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/setup_maintenance_db.php on line 20
+[02-Jul-2025 15:05:57 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/setup_maintenance_db.php on line 20
+[02-Jul-2025 15:05:57 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/setup_maintenance_db.php on line 20
+[02-Jul-2025 15:05:57 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/setup_maintenance_db.php on line 20
+[02-Jul-2025 15:06:00 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:06:00 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:06:02 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:06:02 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:09:01 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 34
+[02-Jul-2025 15:09:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:94
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(305): Analytics->getCategoryStats()
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(28): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 94
+[02-Jul-2025 15:09:03 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 34
+[02-Jul-2025 15:09:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:94
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(305): Analytics->getCategoryStats()
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(28): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 94
+[02-Jul-2025 15:09:45 America/Boise] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 34
+[02-Jul-2025 15:09:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php:94
+Stack trace:
+#0 /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php(305): Analytics->getCategoryStats()
+#1 /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php(28): Analytics->getDashboardData(30)
+#2 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/classes/Analytics.php on line 94
+[02-Jul-2025 15:09:46 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:09:46 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:14:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home2/sunburni/public_html/neofoxmedia/foxy/debug.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/debug.php on line 32
+[02-Jul-2025 15:22:45 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php on line 8
+[02-Jul-2025 15:22:45 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php on line 8
+[02-Jul-2025 15:22:50 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php on line 8
+[02-Jul-2025 15:22:50 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/dashboard_advanced.php on line 8
+[02-Jul-2025 15:28:22 America/Boise] PHP Warning:  require_once(classes/MaintenanceTracker.php): Failed to open stream: No such file or directory in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:28:22 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/MaintenanceTracker.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/maintenance.php on line 11
+[02-Jul-2025 15:29:29 America/Boise] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_14d1f71daf13e58bfcdf4977927f6aac, O_RDWR) failed: No such file or directory (2) in /home2/sunburni/public_html/neofoxmedia/foxy/export.php on line 3
+[02-Jul-2025 15:29:29 America/Boise] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/sunburni/public_html/neofoxmedia/foxy/export.php on line 3
+[02-Jul-2025 23:36:23 America/Boise] PHP Fatal error:  Uncaught Error: Class "GearRequest" not found in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sunburni/public_html/neofoxmedia/foxy/gear_request.php on line 12
